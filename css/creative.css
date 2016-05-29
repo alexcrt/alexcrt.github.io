@@ -485,8 +485,8 @@ body {
 .img-circle {
     border-radius: 50%;
     margin: auto;
-    width: 150px;
-    height: 150px;
+    width: 50px;
+    height: 50px;
     margin-top: 20px;
     border-radius: 150px;
     -webkit-border-radius: 150px;
@@ -495,6 +495,7 @@ body {
     -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
     -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 } 
+
 h1 {
     text-shadow: 1px 3px grey;
 }
